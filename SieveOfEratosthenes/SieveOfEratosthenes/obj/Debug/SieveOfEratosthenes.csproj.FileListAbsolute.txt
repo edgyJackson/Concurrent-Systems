@@ -1,0 +1,7 @@
+D:\user\RLJ\CS474\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+D:\user\RLJ\CS474\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+D:\user\RLJ\CS474\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+D:\user\RLJ\CS474\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojAssemblyReference.cache
+D:\user\RLJ\CS474\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+D:\user\RLJ\CS474\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+D:\user\RLJ\CS474\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb
